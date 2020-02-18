@@ -25,7 +25,7 @@ class AddProducts < ActiveRecord::Migration[6.0]
   		:title => 'Vegitarian', 
   		:description => 'Amazing Vegitarian pizza', 
   		:price => 400, 
-  		:size => 30, 
+  		:size => 40, 
   		:is_spicy => false, 
   		:is_veg => false, 
   		:is_best_offer => false, 
