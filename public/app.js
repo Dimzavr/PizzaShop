@@ -1,3 +1,8 @@
+function add_to_cart()
+{
+	alert('hello from function');
+}
+
 function something()
 {
 
@@ -7,3 +12,6 @@ function something()
 	alert(x);
 	
 }
+
+
+
